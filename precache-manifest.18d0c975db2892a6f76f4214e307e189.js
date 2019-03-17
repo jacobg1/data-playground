@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/data-playground/static/media/loading.4458856a.svg"
   },
   {
-    "revision": "5c6d78ffac331f0ec2d8aa3c8962fea3",
+    "revision": "40d3370618a4f8945c0967a0e6d97e59",
     "url": "/data-playground/index.html"
   }
 ];
